@@ -10,12 +10,15 @@
 
   - **Scatter Plot**: 
     The scatter plot visualizes the relationship between **book price** and **rating**. Each point represents a book, with the **x-axis** showing the price (in £) and the **y-axis** showing the rating. Additionally, hovering over any point reveals more details such as the book's title and URL. This visualization helps users identify trends, such as whether higher-rated books are typically more expensive.
+    ![Scatter Plot](https://github.com/SHAIMOOM251283/scrape_the_books/blob/main/scatter_plot.png)
 
   - **Histogram**: 
     This histogram shows the **distribution of book prices** across the dataset. The **x-axis** is divided into price ranges (bins), while the **y-axis** shows how many books fall into each price range. This provides an overview of how prices are distributed and whether certain price points are more common.
+    ![Histogram](https://github.com/SHAIMOOM251283/scrape_the_books/blob/main/histogram.png)
 
   - **Bar Chart**: 
     The bar chart presents the **average price of books for each rating category**. The **x-axis** represents the rating (1-star to 5-star), and the **y-axis** shows the **average price** of books within that rating. Each bar is uniquely colored, making it visually easy to compare price differences between ratings. This chart helps answer questions like whether higher-rated books generally have higher average prices.
+    ![Bar chart](https://github.com/SHAIMOOM251283/scrape_the_books/blob/main/bar_chart.png)
 
 ## Requirements
 
