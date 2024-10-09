@@ -1,4 +1,4 @@
-# scrape_the_books
+# SCRAPE THE BOOKS
 
 **scrape_the_books** is a Python project that extracts book data from the **Books to Scrape** website, processes and saves the data, and provides visualizations to analyze various aspects of the scraped information. The project is structured into three main scripts: `extract_links.py`, `extract_data.py`, and `data_visualization.py`.
 
